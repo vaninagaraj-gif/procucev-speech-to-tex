@@ -1,0 +1,6 @@
+{
+  "name": "WhisperCraft Studio",
+  "description": "Speech transcription workbench and Faster-Whisper microservice feature builder with live recording, timestamped segments, translation, speaker diarization, and SRT/VTT export.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
